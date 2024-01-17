@@ -1,0 +1,428 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (1 ms)
+Loading the tools information
+Finished loading the tools information (8 ms)
+Loading the application in directory 'C:/Infineon/PSoC6/LVGL_Demo_2.8'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (19 ms)
+Finished loading the application data (2038 ms total, 2016 make)
+Loading asset repository references
+Finished loading the asset repository references (55 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (5295 ms)
+Loading the device db
+Finished loading the device db (7022 ms)
+WARNING:"PSOC6-GENERIC" "latest-v3.X" requires "mtb-hal-cat1" "release-v2.4.4" which is not present in the manifest data.
+WARNING:"PSOC6-GENERIC" "release-v4.0.0" requires "mtb-hal-cat1" "release-v2.4.4" which is not present in the manifest data.
+
+Starting to refresh dependencies for project 'mtb-example-lvgl-demo'.
+Refreshed all dependencies for project 'mtb-example-lvgl-demo'.
+0 error(s), 2 warning(s)
+Successfully acquired the information.
+Requested to update the asset 'mtb-hal-cat1'.
+Starting to refresh dependencies for project 'mtb-example-lvgl-demo'.
+Refreshed all dependencies for project 'mtb-example-lvgl-demo'.
+
+Starting to refresh dependencies for project 'mtb-example-lvgl-demo'.
+Refreshed all dependencies for project 'mtb-example-lvgl-demo'.
+
+Changelog for project "LVGL_Demo_2.8":
+mtb-hal-cat1 updated: changed commit from release-v2.3.0 to release-v2.5.4
+
+Click "Update" to commit the changesUpdating application "LVGL_Demo_2.8" ...
+Starting to commit changes to the filesystem and project 'mtb-example-lvgl-demo'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Infineon/PSoC6/LVGL_Demo_2.8/deps'.
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 -c advice.detachedHead=false checkout release-v10.4.305 --force
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 -c advice.detachedHead=false checkout release-v6.32.0 --force
+HEAD is now at 8ef6728 Upload display-tft-st7789v 1.0.1.17634
+Success: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+Finished processing display-tft-st7789v
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 -c advice.detachedHead=false checkout v8.3.5 --force
+HEAD is now at 085ab13 Upload freertos 10.4.305.482 [103]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 -c advice.detachedHead=false checkout release-v10.4.305 --force
+Finished processing freertos
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Success: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 -c advice.detachedHead=false checkout release-v1.7.4 --force
+HEAD is now at 5728609 Upload emwin 6.32.0.345 [1459]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 -c advice.detachedHead=false checkout release-v6.32.0 --force
+Finished processing emwin
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 -c advice.detachedHead=false checkout release-v2.5.4 --force
+HEAD is now at f29514aa5 docs: update changelog
+Success: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 -c advice.detachedHead=false checkout v8.3.5 --force
+Finished processing lvgl
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 -c advice.detachedHead=false checkout release-v1.4.0 --force
+HEAD is now at db7f962 Upload retarget-io [1515]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Finished processing retarget-io
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 -c advice.detachedHead=false checkout release-v1.4.2 --force
+HEAD is now at 2ae0972 Upload abstraction-rtos [1771]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 -c advice.detachedHead=false checkout release-v1.7.4 --force
+Finished processing abstraction-rtos
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+HEAD is now at 4090e1a Upload mtb-hal-cat1 [1976]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 -c advice.detachedHead=false checkout release-v2.5.4 --force
+Finished processing mtb-hal-cat1
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+HEAD is now at ddcdedb Upload cat1cm0p 1.4.0.368 [2049]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 -c advice.detachedHead=false checkout release-v1.4.0 --force
+Finished processing cat1cm0p
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at 97cf620 Upload clib-support [1864]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 -c advice.detachedHead=false checkout release-v1.4.2 --force
+Finished processing clib-support
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 -c advice.detachedHead=false checkout release-v3.9.0 --force
+HEAD is now at a74be8b Upload core-lib [1796]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Finished processing core-lib
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 -c advice.detachedHead=false checkout release-v2.1.2 --force
+HEAD is now at b962a1e Upload core-make 3.2.2.4739 [1647]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+Finished processing core-make
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Finished processing cmsis
+HEAD is now at 0446103 Upload recipe-make-cat1a 2.1.2.4871 [1976]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 -c advice.detachedHead=false checkout release-v2.1.2 --force
+Finished processing recipe-make-cat1a
+HEAD is now at 96bbf19 Upload mtb-pdl-cat1 3.9.0.29592 [2049]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 -c advice.detachedHead=false checkout release-v3.9.0 --force
+Finished processing mtb-pdl-cat1
+Successfully committed changes to the project 'mtb-example-lvgl-demo'.
+0 error(s), 0 warning(s)
+Successfully updated application "LVGL_Demo_2.8"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+Tools Directory: C:/Infineon/ModusToolbox3.1/tools_3.1
+Searching installed tools in progress...
+Searching installed tools complete
+Initializing build: mtb-example-lvgl-demo Debug APP_CY8CEVAL-062S2 GCC_ARM
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Infineon/ModusToolbox3.1/tools_3.1
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.cproject
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.project
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Attach (KitProg3_MiniProg4).launch
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Debug (KitProg3_MiniProg4).launch
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Erase (KitProg3_MiniProg4).launch
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Program (KitProg3_MiniProg4).launch
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-lvgl-demo'.
+Refreshed all dependencies for project 'mtb-example-lvgl-demo'.
+
+Summary:
+Successfully updated application "LVGL_Demo_2.8"
+Successfully refreshed dependencies.
+Done.
+Starting to refresh dependencies for project 'mtb-example-lvgl-demo'.
+Refreshed all dependencies for project 'mtb-example-lvgl-demo'.
+
+Changelog for project "LVGL_Demo_2.8":
+mtb-hal-cat1 updated: changed commit from release-v2.3.0 to release-v2.5.4
+
+Click "Update" to commit the changes
+
+Updating application "LVGL_Demo_2.8" ...
+Starting to commit changes to the filesystem and project 'mtb-example-lvgl-demo'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Infineon/PSoC6/LVGL_Demo_2.8/deps'.
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 -c advice.detachedHead=false checkout release-v10.4.305 --force
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 -c advice.detachedHead=false checkout release-v6.32.0 --force
+HEAD is now at 8ef6728 Upload display-tft-st7789v 1.0.1.17634
+Success: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+Finished processing display-tft-st7789v
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 -c advice.detachedHead=false checkout v8.3.5 --force
+HEAD is now at 085ab13 Upload freertos 10.4.305.482 [103]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 -c advice.detachedHead=false checkout release-v10.4.305 --force
+Finished processing freertos
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Success: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 -c advice.detachedHead=false checkout release-v1.7.4 --force
+HEAD is now at 5728609 Upload emwin 6.32.0.345 [1459]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 -c advice.detachedHead=false checkout release-v6.32.0 --force
+Finished processing emwin
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 -c advice.detachedHead=false checkout release-v2.5.4 --force
+HEAD is now at f29514aa5 docs: update changelog
+Success: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 -c advice.detachedHead=false checkout v8.3.5 --force
+Finished processing lvgl
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 -c advice.detachedHead=false checkout release-v1.4.0 --force
+HEAD is now at db7f962 Upload retarget-io [1515]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Finished processing retarget-io
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 -c advice.detachedHead=false checkout release-v1.4.2 --force
+HEAD is now at 2ae0972 Upload abstraction-rtos [1771]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/abstraction-rtos/release-v1.7.4 -c advice.detachedHead=false checkout release-v1.7.4 --force
+Finished processing abstraction-rtos
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+HEAD is now at 4090e1a Upload mtb-hal-cat1 [1976]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 -c advice.detachedHead=false checkout release-v2.5.4 --force
+Finished processing mtb-hal-cat1
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+HEAD is now at ddcdedb Upload cat1cm0p 1.4.0.368 [2049]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cat1cm0p/release-v1.4.0 -c advice.detachedHead=false checkout release-v1.4.0 --force
+Finished processing cat1cm0p
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at 97cf620 Upload clib-support [1864]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/clib-support/release-v1.4.2 -c advice.detachedHead=false checkout release-v1.4.2 --force
+Finished processing clib-support
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 -c advice.detachedHead=false checkout release-v3.9.0 --force
+HEAD is now at a74be8b Upload core-lib [1796]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Finished processing core-lib
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 -c advice.detachedHead=false checkout release-v2.1.2 --force
+HEAD is now at b962a1e Upload core-make 3.2.2.4739 [1647]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+Finished processing core-make
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/Infineon/PSoC6/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Finished processing cmsis
+HEAD is now at 0446103 Upload recipe-make-cat1a 2.1.2.4871 [1976]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/recipe-make-cat1a/release-v2.1.2 -c advice.detachedHead=false checkout release-v2.1.2 --force
+Finished processing recipe-make-cat1a
+HEAD is now at 96bbf19 Upload mtb-pdl-cat1 3.9.0.29592 [2049]
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-pdl-cat1/release-v3.9.0 -c advice.detachedHead=false checkout release-v3.9.0 --force
+Finished processing mtb-pdl-cat1
+Successfully committed changes to the project 'mtb-example-lvgl-demo'.
+0 error(s), 0 warning(s)
+Successfully updated application "LVGL_Demo_2.8"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+Tools Directory: C:/Infineon/ModusToolbox3.1/tools_3.1
+Searching installed tools in progress...
+Searching installed tools complete
+Initializing build: mtb-example-lvgl-demo Debug APP_CY8CEVAL-062S2 GCC_ARM
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Infineon/ModusToolbox3.1/tools_3.1
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.cproject
+
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.project
+
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Attach (KitProg3_MiniProg4).launch
+
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Debug (KitProg3_MiniProg4).launch
+
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Erase (KitProg3_MiniProg4).launch
+
+Generated C:/Infineon/PSoC6/LVGL_Demo_2.8/.mtbLaunchConfigs/LVGL_Demo_2.8 Program (KitProg3_MiniProg4).launch
+
+Instructions:
+
+1. Open Eclipse IDE for ModusToolbox
+
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+
+3. Browse to the application root directory
+
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-lvgl-demo'.
+Refreshed all dependencies for project 'mtb-example-lvgl-demo'.
+
+Summary:
+Successfully updated application "LVGL_Demo_2.8"
+Successfully refreshed dependencies.
+Done.Updating application "LVGL_Demo_2.8" ...
+Starting to commit changes to the filesystem and project 'mtb-example-lvgl-demo'.
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/display-tft-st7789v/release-v1.0.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Infineon/PSoC6/mtb_shared/freertos/release-v10.4.305 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Finished processing freertos
+Finished processing retarget-io
+Finished processing abstraction-rtos
+Finished processing cat1cm0p
+Finished processing clib-support
+Finished processing cmsis
+Finished processing core-lib
+Finished processing core-make
+Finished processing mtb-pdl-cat1
+Finished processing recipe-make-cat1a
+Finished processing display-tft-st7789v
+Success: git -C C:/Infineon/PSoC6/mtb_shared/emwin/release-v6.32.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Finished processing emwin
+Success: git -C C:/Infineon/PSoC6/mtb_shared/lvgl/release-v8.3.5 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Finished processing lvgl
+Success: git -C C:/Infineon/PSoC6/mtb_shared/mtb-hal-cat1/release-v2.5.4 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Finished processing mtb-hal-cat1
+Failed to commit changes to the project 'mtb-example-lvgl-demo'.
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/freertos' commit 'release-v10.4.305' - Failed to load 'https://github.com/cypresssemiconductorco/freertos': Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/retarget-io' commit 'release-v1.5.0' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/abstraction-rtos' commit 'release-v1.7.4' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/Infineon/cat1cm0p' commit 'release-v1.4.0' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/clib-support' commit 'release-v1.4.2' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/Infineon/cmsis' commit 'release-v5.8.0' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/core-lib' commit 'release-v1.4.1' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/core-make' commit 'release-v3.2.2' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/mtb-pdl-cat1' commit 'release-v3.9.0' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/recipe-make-cat1a' commit 'release-v2.1.2' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/display-tft-st7789v' commit 'release-v1.0.1' - Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/emwin' commit 'release-v6.32.0' - Failed to load 'https://github.com/cypresssemiconductorco/emwin': Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/lvgl/lvgl' commit 'v8.3.5' - Failed to load 'https://github.com/lvgl/lvgl': Operation canceled
+ERROR:there was an error retreiving the asset 'https://github.com/cypresssemiconductorco/mtb-hal-cat1' commit 'release-v2.5.4' - Failed to load 'https://github.com/cypresssemiconductorco/mtb-hal-cat1': Operation canceled
+
+14 error(s), 0 warning(s)
+ERROR:Failed to update application "LVGL_Demo_2.8"
+
+Starting to refresh dependencies for project 'mtb-example-lvgl-demo'.
+Refreshed all dependencies for project 'mtb-example-lvgl-demo'.
+
+Summary:
+ERROR:Failed to update application "LVGL_Demo_2.8"
+Successfully refreshed dependencies.
+WARNING: Not done.
